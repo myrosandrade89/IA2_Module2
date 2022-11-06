@@ -1,1 +1,1 @@
-numpy tensorflow matplotlib
+numpy tensorflow matplotlib joblib
