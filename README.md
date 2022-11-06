@@ -7,6 +7,12 @@ _Fecha de creación: 04/11/2022_
 _Última modificación: 05/11/2022_
 
 ---
+## **Recursos**
+
+Implementación en GoogleColab: https://drive.google.com/drive/folders/1N7n9zKfo3VSWN1aSBealnb3GeWJx_baM?usp=sharing
+<br>Video de youtube: https://youtu.be/fP8XHq1_m24
+
+---
 
 ## **Extracción de datos**
 
